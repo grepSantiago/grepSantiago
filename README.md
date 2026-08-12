@@ -74,6 +74,6 @@ If you are interested in what I do, feel free to connect!
 <br/>  
 
 ## 📊 Github Stats  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santiagogc8&hide_border=true&layout=compact&bg_color=0D1117&text_color=ffffff&title_color=a3e635" align="left" />  
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Santiagogc8&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&text_color=ffffff&title_color=a3e635&icon_color=a3e635" align="center" /></div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Santiagogc8&theme=merko&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&card_width=1000"/>
+</p>
