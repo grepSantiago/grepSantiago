@@ -70,10 +70,8 @@ If you are interested in what I do, feel free to connect!
   <a href="https://linkedin.com/in/santiago-guzmán-326b3321a" target="_blank"><img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>&nbsp;&nbsp;
   <a href="https://instagram.com/santiago_gc_8" target="_blank"><img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" /></a>
 </div>
-  
 
 <br/>  
-
 
 ## 📊 Github Stats  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santiagogc8&hide_border=true&layout=compact&bg_color=0D1117&text_color=ffffff&title_color=a3e635" align="left" />  
