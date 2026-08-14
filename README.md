@@ -74,6 +74,22 @@ If you are interested in what I do, feel free to connect!
 <br/>  
 
 ## 📊 Github Stats  
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Santiagogc8&theme=merko&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&card_width=1000"/>
+  <!-- Streak Stats (Ancho completo) -->
+  <a href="https://github.com/grepSantiago">
+    <img src="https://santiagoguzman.dev/api/stats/streak.svg?theme=merko&hide_border=true&exclude_days=Sun,Sat&card_width=1000" alt="GitHub Streak" width="100%" />
+  </a>
+</p>
+
+<p align="center">
+  <!-- Overview Stats -->
+  <a href="https://github.com/grepSantiago">
+    <img src="https://santiagoguzman.dev/api/stats/overview.svg?theme=merko&hide_border=true" alt="GitHub Overview" height="195px" />
+  </a>
+  &nbsp;&nbsp;
+  <!-- Top Languages -->
+  <a href="https://github.com/grepSantiago">
+    <img src="https://santiagoguzman.dev/api/stats/languages.svg?theme=merko&hide_border=true&limit=6" alt="Top Languages" height="195px" />
+  </a>
 </p>
