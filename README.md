@@ -47,7 +47,8 @@ If you are interested in what I do, feel free to connect!
     <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" height="60" /></a>&nbsp;&nbsp;
     <a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/free-postgresql-icon-svg-download-png-1175120.png" alt="PostgreSQL" height="60" /></a>&nbsp;&nbsp;
     <a href="https://expressjs.com" target="_blank"><img src="https://cdn.brandfetch.io/idh1lvV1BF/w/124/h/124/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" alt="Express" height="60" /></a>&nbsp;&nbsp;
-    <a href="https://bulma.io/" target="_blank"><img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="Bulma" height="60" /></a>&nbsp;&nbsp;
+    <a href="https://www.linux.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Icons8_flat_linux.svg/960px-Icons8_flat_linux.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" alt="Linux" height="80" /></a>&nbsp;&nbsp;
+    <a href="https://bulma.io/" target="_blank"><img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="Linux" height="60" /></a>&nbsp;&nbsp;
     <a href="https://www.npmjs.com/package/ava" target="_blank"><img src="https://raw.githubusercontent.com/avajs/ava/HEAD/media/header.png" alt="AVA" height="60" /></a>&nbsp;&nbsp;
     <a href="https://www.algolia.com/" target="_blank"><img src="https://icon.icepanel.io/Technology/svg/Algolia.svg" alt="Algolia" height="60" /></a>&nbsp;&nbsp;
     <a href="https://sequelize.org/" target="_blank"><img src="https://icon.icepanel.io/Technology/svg/Sequelize.svg" alt="Sequelize" height="60" /></a>&nbsp;&nbsp;
