@@ -37,6 +37,7 @@ If you are interested in what I do, feel free to connect!
     <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="CSS3" height="60" /></a>&nbsp;&nbsp;
     <a href="https://www.javascript.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="60" /></a>&nbsp;&nbsp;
     <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="60" /></a>&nbsp;&nbsp;
+    <a href="https://www.python.org/" target="_blank"><img src="https://images.icon-icons.com/1508/PNG/512/python_104451.png" alt="Python" height="60" /></a>&nbsp;&nbsp;
     <a href="https://www.figma.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="60" /></a>&nbsp;&nbsp;
     <a href="https://www.astro.build/" target="_blank"><img src="https://cdn.brandfetch.io/idFch1tiTl/w/400/h/400/theme/dark/icon.png?c=1dxbfHSJFAPEGdCLU4o5B" alt="Astro" height="60" /></a>&nbsp;&nbsp;
     <a href="https://reactjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="60" /></a>&nbsp;&nbsp;
