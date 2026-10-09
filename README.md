@@ -38,6 +38,7 @@ If you are interested in what I do, feel free to connect!
     <a href="https://www.javascript.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="60" /></a>&nbsp;&nbsp;
     <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="60" /></a>&nbsp;&nbsp;
     <a href="https://www.python.org/" target="_blank"><img src="https://images.icon-icons.com/1508/PNG/512/python_104451.png" alt="Python" height="60" /></a>&nbsp;&nbsp;
+    <a href="https://www.swift.org/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968371.png" alt="Swift" height="60" /></a>&nbsp;&nbsp;
     <a href="https://www.figma.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="60" /></a>&nbsp;&nbsp;
     <a href="https://www.astro.build/" target="_blank"><img src="https://cdn.brandfetch.io/idFch1tiTl/w/400/h/400/theme/dark/icon.png?c=1dxbfHSJFAPEGdCLU4o5B" alt="Astro" height="60" /></a>&nbsp;&nbsp;
     <a href="https://reactjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="60" /></a>&nbsp;&nbsp;
@@ -48,8 +49,9 @@ If you are interested in what I do, feel free to connect!
     <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" height="60" /></a>&nbsp;&nbsp;
     <a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/free-postgresql-icon-svg-download-png-1175120.png" alt="PostgreSQL" height="60" /></a>&nbsp;&nbsp;
     <a href="https://expressjs.com" target="_blank"><img src="https://cdn.brandfetch.io/idh1lvV1BF/w/124/h/124/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" alt="Express" height="60" /></a>&nbsp;&nbsp;
+    <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/3/fastapi-icon-72blnc5ihz9c30ltfruvm.png/fastapi-icon-sv7hsd0o3donlq26es2lr.png?_a=DATAiZAAZAA0" alt="FastAPI" height="60" /></a>&nbsp;&nbsp;
     <a href="https://www.linux.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Icons8_flat_linux.svg/960px-Icons8_flat_linux.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" alt="Linux" height="80" /></a>&nbsp;&nbsp;
-    <a href="https://bulma.io/" target="_blank"><img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="Linux" height="60" /></a>&nbsp;&nbsp;
+    <a href="https://bulma.io/" target="_blank"><img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="Bulma" height="60" /></a>&nbsp;&nbsp;
     <a href="https://www.npmjs.com/package/ava" target="_blank"><img src="https://raw.githubusercontent.com/avajs/ava/HEAD/media/header.png" alt="AVA" height="60" /></a>&nbsp;&nbsp;
     <a href="https://www.algolia.com/" target="_blank"><img src="https://icon.icepanel.io/Technology/svg/Algolia.svg" alt="Algolia" height="60" /></a>&nbsp;&nbsp;
     <a href="https://sequelize.org/" target="_blank"><img src="https://icon.icepanel.io/Technology/svg/Sequelize.svg" alt="Sequelize" height="60" /></a>&nbsp;&nbsp;
