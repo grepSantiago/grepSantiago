@@ -65,33 +65,33 @@ I am a **Systems Engineer** and **Fullstack & AI Engineer**. My focus is on buil
 
 <div align="center">
   <p>
-    <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" alt="HTML5" height="48" /></a>&nbsp;&nbsp;
-    <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="CSS3" height="48" /></a>&nbsp;&nbsp;
-    <a href="https://www.javascript.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="48" /></a>&nbsp;&nbsp;
-    <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="48" /></a>&nbsp;&nbsp;
-    <a href="https://www.python.org/" target="_blank"><img src="https://images.icon-icons.com/1508/PNG/512/python_104451.png" alt="Python" height="48" /></a>&nbsp;&nbsp;
-    <a href="https://www.swift.org/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968371.png" alt="Swift" height="48" /></a>&nbsp;&nbsp;
-    <a href="https://www.figma.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="48" /></a>&nbsp;&nbsp;
-    <a href="https://www.astro.build/" target="_blank"><img src="https://cdn.brandfetch.io/idFch1tiTl/w/400/h/400/theme/dark/icon.png?c=1dxbfHSJFAPEGdCLU4o5B" alt="Astro" height="48" /></a>&nbsp;&nbsp;
-    <a href="https://reactjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="48" /></a>&nbsp;&nbsp;
-    <a href="https://nextjs.org/" target="_blank"><img src="https://marcbruederlin.gallerycdn.vsassets.io/extensions/marcbruederlin/next-icons/0.1.0/1723747598319/Microsoft.VisualStudio.Services.Icons.Default" alt="Next.js" height="48" /></a>&nbsp;&nbsp;
-    <a href="https://www.tailwindcss.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="48" /></a>&nbsp;&nbsp;
-    <a href="https://github.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="48" /></a>&nbsp;&nbsp;
-    <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" height="48" /></a>&nbsp;&nbsp;
-    <a href="https://nestjs.com/" target="_blank"><img src="https://icon.icepanel.io/Technology/svg/Nest.js.svg" alt="NestJS" height="48" /></a>&nbsp;&nbsp;
-    <a href="https://expressjs.com" target="_blank"><img src="https://cdn.brandfetch.io/idh1lvV1BF/w/124/h/124/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" alt="Express" height="48" /></a>&nbsp;&nbsp;
-    <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/3/fastapi-icon-72blnc5ihz9c30ltfruvm.png/fastapi-icon-sv7hsd0o3donlq26es2lr.png?_a=DATAiZAAZAA0" alt="FastAPI" height="48" /></a>&nbsp;&nbsp;
-    <a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/free-postgresql-icon-svg-download-png-1175120.png" alt="PostgreSQL" height="48" /></a>&nbsp;&nbsp;
-    <a href="https://www.prisma.io/" target="_blank"><img src="https://cdn.brandfetch.io/idBBE3_R9e/w/159/h/194/idqzHpHNNT.png?c=1dxbfHSJFAPEGdCLU4o5B" alt="Prisma ORM" height="48" /></a>&nbsp;&nbsp;
-    <a href="https://sequelize.org/" target="_blank"><img src="https://icon.icepanel.io/Technology/svg/Sequelize.svg" alt="Sequelize" height="48" /></a>&nbsp;&nbsp;
-    <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" height="48" /></a>&nbsp;&nbsp;
-    <a href="https://graphql.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/960px-GraphQL_Logo.svg.png" alt="GraphQL" height="48" /></a>&nbsp;&nbsp;
-    <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.brandfetch.io/id5_eOiB6T/theme/dark/symbol.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="Docker" height="48" /></a>&nbsp;&nbsp;
-    <a href="https://www.linux.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Icons8_flat_linux.svg/960px-Icons8_flat_linux.svg.png" alt="Linux" height="48" /></a>&nbsp;&nbsp;
-    <a href="https://bulma.io/" target="_blank"><img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="Bulma" height="48" /></a>&nbsp;&nbsp;
-    <a href="https://www.npmjs.com/package/ava" target="_blank"><img src="https://raw.githubusercontent.com/avajs/ava/HEAD/media/header.png" alt="AVA" height="48" /></a>&nbsp;&nbsp;
-    <a href="https://www.algolia.com/" target="_blank"><img src="https://icon.icepanel.io/Technology/svg/Algolia.svg" alt="Algolia" height="48" /></a>&nbsp;&nbsp;
-    <a href="https://n8n.io/" target="_blank"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/n8n-color.png" alt="n8n" height="48" /></a>
+    <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" height="40" /></a>&nbsp;&nbsp;
+    <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" height="40" /></a>&nbsp;&nbsp;
+    <a href="https://www.javascript.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" /></a>&nbsp;&nbsp;
+    <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" height="40" /></a>&nbsp;&nbsp;
+    <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="40" /></a>&nbsp;&nbsp;
+    <a href="https://www.swift.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" height="40" /></a>&nbsp;&nbsp;
+    <a href="https://www.figma.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" height="40" /></a>&nbsp;&nbsp;
+    <a href="https://www.astro.build/" target="_blank"><img src="https://cdn.brandfetch.io/idFch1tiTl/w/400/h/400/theme/dark/icon.png?c=1dxbfHSJFAPEGdCLU4o5B" alt="Astro" height="40" /></a>&nbsp;&nbsp;
+    <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" height="40" /></a>&nbsp;&nbsp;
+    <a href="https://nextjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" height="40" /></a>&nbsp;&nbsp;
+    <a href="https://www.tailwindcss.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" height="40" /></a>&nbsp;&nbsp;
+    <a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" height="40" /></a>&nbsp;&nbsp;
+    <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" height="40" /></a>&nbsp;&nbsp;
+    <a href="https://nestjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="NestJS" height="40" /></a>&nbsp;&nbsp;
+    <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" height="40" /></a>&nbsp;&nbsp;
+    <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" height="40" /></a>&nbsp;&nbsp;
+    <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="40" /></a>&nbsp;&nbsp;
+    <a href="https://www.prisma.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" alt="Prisma ORM" height="40" /></a>&nbsp;&nbsp;
+    <a href="https://sequelize.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg" alt="Sequelize" height="40" /></a>&nbsp;&nbsp;
+    <a href="https://firebase.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" height="40" /></a>&nbsp;&nbsp;
+    <a href="https://graphql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="GraphQL" height="40" /></a>&nbsp;&nbsp;
+    <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" height="40" /></a>&nbsp;&nbsp;
+    <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" height="40" /></a>&nbsp;&nbsp;
+    <a href="https://bulma.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bulma/bulma-plain.svg" alt="Bulma" height="40" /></a>&nbsp;&nbsp;
+    <a href="https://www.npmjs.com/package/ava" target="_blank"><img src="https://raw.githubusercontent.com/avajs/ava/HEAD/media/logo.svg" alt="AVA" height="40" /></a>&nbsp;&nbsp;
+    <a href="https://www.algolia.com/" target="_blank"><img src="https://icon.icepanel.io/Technology/svg/Algolia.svg" alt="Algolia" height="40" /></a>&nbsp;&nbsp;
+    <a href="https://n8n.io/" target="_blank"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/n8n-color.png" alt="n8n" height="40" /></a>
   </p>
 </div>
 
@@ -101,16 +101,16 @@ I am a **Systems Engineer** and **Fullstack & AI Engineer**. My focus is on buil
 
 <div align="center">
   <a href="https://github.com/grepSantiago" target="_blank">
-    <img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>&nbsp;&nbsp;
   <a href="https://linkedin.com/in/santiago-guzman-dev" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>&nbsp;&nbsp;
   <a href="https://santiagoguzman.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/portfolio-a3e635?style=for-the-badge&logo=astro&logoColor=black" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-21262D?style=for-the-badge" alt="Portfolio" />
   </a>&nbsp;&nbsp;
   <a href="https://instagram.com/santiago_gc_8" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </div>
 
@@ -119,20 +119,20 @@ I am a **Systems Engineer** and **Fullstack & AI Engineer**. My focus is on buil
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <!-- Streak Stats -->
+  <!-- Streak Stats (Aligned to 840px width and 195px height) -->
   <a href="https://github.com/grepSantiago">
-    <img src="https://santiagoguzman.dev/api/stats/streak.svg?theme=merko&hide_border=true&exclude_days=Sun,Sat" alt="GitHub Streak" width="100%" />
+    <img src="https://santiagoguzman.dev/api/stats/streak.svg?theme=merko&hide_border=true&exclude_days=Sun,Sat&card_width=840" alt="GitHub Streak" height="195" />
   </a>
 </p>
 
 <p align="center">
   <!-- Overview Stats -->
   <a href="https://github.com/grepSantiago">
-    <img src="https://santiagoguzman.dev/api/stats/overview.svg?theme=merko&hide_border=true" alt="GitHub Overview" height="195" />
+    <img src="https://santiagoguzman.dev/api/stats/overview.svg?theme=merko&hide_border=true&card_width=415" alt="GitHub Overview" height="195" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <!-- Top Languages -->
   <a href="https://github.com/grepSantiago">
-    <img src="https://santiagoguzman.dev/api/stats/languages.svg?theme=merko&hide_border=true&limit=6" alt="Top Languages" height="195" />
+    <img src="https://santiagoguzman.dev/api/stats/languages.svg?theme=merko&hide_border=true&limit=6&card_width=415" alt="Top Languages" height="195" />
   </a>
 </p>
