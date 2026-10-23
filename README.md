@@ -79,17 +79,17 @@ I am a **Systems Engineer** and **Fullstack & AI Engineer**. My focus is on buil
     <a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" height="40" /></a>&nbsp;&nbsp;
     <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" height="40" /></a>&nbsp;&nbsp;
     <a href="https://nestjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="NestJS" height="40" /></a>&nbsp;&nbsp;
-    <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" height="40" /></a>&nbsp;&nbsp;
+    <a href="https://expressjs.com" target="_blank"><img src="https://cdn.brandfetch.io/idh1lvV1BF/w/124/h/124/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" alt="Express" height="40" /></a>&nbsp;&nbsp;
     <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" height="40" /></a>&nbsp;&nbsp;
     <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="40" /></a>&nbsp;&nbsp;
-    <a href="https://www.prisma.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" alt="Prisma ORM" height="40" /></a>&nbsp;&nbsp;
+    <a href="https://www.prisma.io/" target="_blank"><img src="https://cdn.brandfetch.io/idBBE3_R9e/w/159/h/194/idqzHpHNNT.png?c=1dxbfHSJFAPEGdCLU4o5B" alt="Prisma ORM" height="40" /></a>&nbsp;&nbsp;
     <a href="https://sequelize.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg" alt="Sequelize" height="40" /></a>&nbsp;&nbsp;
     <a href="https://firebase.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" height="40" /></a>&nbsp;&nbsp;
     <a href="https://graphql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="GraphQL" height="40" /></a>&nbsp;&nbsp;
     <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" height="40" /></a>&nbsp;&nbsp;
-    <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" height="40" /></a>&nbsp;&nbsp;
+    <a href="https://www.linux.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Icons8_flat_linux.svg/960px-Icons8_flat_linux.svg.png" alt="Linux" height="42" /></a>&nbsp;&nbsp;
     <a href="https://bulma.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bulma/bulma-plain.svg" alt="Bulma" height="40" /></a>&nbsp;&nbsp;
-    <a href="https://www.npmjs.com/package/ava" target="_blank"><img src="https://raw.githubusercontent.com/avajs/ava/HEAD/media/logo.svg" alt="AVA" height="40" /></a>&nbsp;&nbsp;
+    <a href="https://www.npmjs.com/package/ava" target="_blank"><img src="https://raw.githubusercontent.com/avajs/ava/HEAD/media/header.png" alt="AVA" height="40" /></a>&nbsp;&nbsp;
     <a href="https://www.algolia.com/" target="_blank"><img src="https://icon.icepanel.io/Technology/svg/Algolia.svg" alt="Algolia" height="40" /></a>&nbsp;&nbsp;
     <a href="https://n8n.io/" target="_blank"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/n8n-color.png" alt="n8n" height="40" /></a>
   </p>
@@ -109,7 +109,7 @@ I am a **Systems Engineer** and **Fullstack & AI Engineer**. My focus is on buil
   <a href="https://santiagoguzman.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-21262D?style=for-the-badge" alt="Portfolio" />
   </a>&nbsp;&nbsp;
-  <a href="https://instagram.com/santiago_gc_8" target="_blank">
+  <a href="https://instagram.com/grepsantiago" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </div>
