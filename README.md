@@ -92,6 +92,7 @@ I am a **Systems Engineer** and **Fullstack & AI Engineer**. My focus is on buil
     <a href="https://www.npmjs.com/package/ava" target="_blank"><img src="https://raw.githubusercontent.com/avajs/ava/HEAD/media/header.png" alt="AVA" height="40" /></a>&nbsp;&nbsp;
     <a href="https://www.algolia.com/" target="_blank"><img src="https://icon.icepanel.io/Technology/svg/Algolia.svg" alt="Algolia" height="40" /></a>&nbsp;&nbsp;
     <a href="https://n8n.io/" target="_blank"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/n8n-color.png" alt="n8n" height="40" /></a>
+    <a href="https://openclaw.ai/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/openclaw.png" alt="OpenClaw" height="40" /></a>
   </p>
 </div>
 
