@@ -100,7 +100,7 @@ I am a **Systems Engineer** and **Fullstack & AI Engineer**. My focus is on buil
     <a href="https://cloud.google.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" height="40" /></a>&nbsp;&nbsp;
     <a href="https://cloudinary.com" target="_blank"><img src="https://cdn.simpleicons.org/cloudinary/3448C5" alt="Cloudinary" height="40" /></a>&nbsp;&nbsp;
     <a href="https://resend.com" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/resend/white" /><img src="https://cdn.simpleicons.org/resend/black" alt="Resend" height="40" /></picture></a>&nbsp;&nbsp;
-    <a href="https://www.linux.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Icons8_flat_linux.svg/960px-Icons8_flat_linux.svg.png" alt="Linux" height="42" /></a>&nbsp;&nbsp;
+    <a href="https://www.linux.org/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png" alt="Linux" height="42" /></a>&nbsp;&nbsp;
     <a href="https://bulma.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bulma/bulma-plain.svg" alt="Bulma" height="40" /></a>&nbsp;&nbsp;
     <a href="https://www.npmjs.com/package/ava" target="_blank"><img src="https://raw.githubusercontent.com/avajs/ava/HEAD/media/header.png" alt="AVA" height="40" /></a>&nbsp;&nbsp;
     <a href="https://www.algolia.com/" target="_blank"><img src="https://icon.icepanel.io/Technology/svg/Algolia.svg" alt="Algolia" height="40" /></a>&nbsp;&nbsp;
